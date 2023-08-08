@@ -93,9 +93,9 @@ int main() {
 			}
 		}
 
-		else {
-			parse_line(input, '&');			
-		} 
+		//else {
+		//	parse_line(input, '&');			
+		//} 
 
 		//printf("I entered%s\n",input);
 		//printf("You Entered: %s\n", input);
